@@ -1,0 +1,1379 @@
+{
+  "scraped_at": "2025-12-30T18:52:10.960399Z",
+  "source_url": "https://ccsf.granicus.com/ViewPublisher.php?view_id=3",
+  "total_meetings": 196,
+  "meetings": [
+    {
+      "meeting_id": "meeting_2025_12_04",
+      "date": "2025-12-04",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=2301",
+      "minutes_url": null
+    },
+    {
+      "meeting_id": "meeting_2025_11_06",
+      "date": "2025-11-06",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=2291",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=2291&doc_id=7027f933-d9fb-11f0-bb28-005056a89546"
+    },
+    {
+      "meeting_id": "meeting_2025_10_23",
+      "date": "2025-10-23",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=2286",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=2286&doc_id=58e12be9-d9fb-11f0-bb28-005056a89546"
+    },
+    {
+      "meeting_id": "meeting_2025_09_25",
+      "date": "2025-09-25",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=2274",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=2274&doc_id=c511c892-bc3a-11f0-a7da-005056a89546"
+    },
+    {
+      "meeting_id": "meeting_2025_08_28",
+      "date": "2025-08-28",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=2255",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=2255&doc_id=f294bb53-9d8d-11f0-8df7-005056a89546"
+    },
+    {
+      "meeting_id": "meeting_2025_06_26",
+      "date": "2025-06-26",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=2245",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=2245&doc_id=92117f2d-88f8-11f0-a766-005056a89546"
+    },
+    {
+      "meeting_id": "meeting_2025_05_29",
+      "date": "2025-05-29",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=2234",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=2234&doc_id=0c5a7388-88f5-11f0-a766-005056a89546"
+    },
+    {
+      "meeting_id": "meeting_2025_04_24",
+      "date": "2025-04-24",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=2223",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=2223&doc_id=237aefa4-3dc0-11f0-856f-005056a89546"
+    },
+    {
+      "meeting_id": "meeting_2025_03_27",
+      "date": "2025-03-27",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=2216",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=2216&doc_id=6b65bba8-2a16-11f0-9f54-005056a89546"
+    },
+    {
+      "meeting_id": "meeting_2025_02_27",
+      "date": "2025-02-27",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=2193",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=2193&doc_id=2c66b16d-1405-11f0-955d-005056a89546"
+    },
+    {
+      "meeting_id": "meeting_2025_01_23",
+      "date": "2025-01-23",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=2183",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=2183&doc_id=e3e149b3-1ee3-11f0-955d-005056a89546"
+    },
+    {
+      "meeting_id": "meeting_2024_12_05",
+      "date": "2024-12-05",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=2171",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=2171&doc_id=406e72d0-da91-11ef-a9e2-005056a89546"
+    },
+    {
+      "meeting_id": "meeting_2024_11_07",
+      "date": "2024-11-07",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=2167",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=2167&doc_id=2dec1ad3-da91-11ef-a9e2-005056a89546"
+    },
+    {
+      "meeting_id": "meeting_2024_10_24",
+      "date": "2024-10-24",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=2165",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=2165&doc_id=1de15c78-da91-11ef-a9e2-005056a89546"
+    },
+    {
+      "meeting_id": "meeting_2024_09_26",
+      "date": "2024-09-26",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=2156",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=2156&doc_id=0a670756-da91-11ef-a9e2-005056a89546"
+    },
+    {
+      "meeting_id": "meeting_2024_08_29",
+      "date": "2024-08-29",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=2153",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=2153&doc_id=6b899ade-9336-11ef-ab4b-005056a89546"
+    },
+    {
+      "meeting_id": "meeting_2024_06_27",
+      "date": "2024-06-27",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=2138",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=2138&doc_id=26ae2160-9336-11ef-ab4b-005056a89546"
+    },
+    {
+      "meeting_id": "meeting_2024_05_30",
+      "date": "2024-05-30",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=2130",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=2130&doc_id=0c06ff6c-9336-11ef-ab4b-005056a89546"
+    },
+    {
+      "meeting_id": "meeting_2024_04_25",
+      "date": "2024-04-25",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=2115",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=2115&doc_id=028893d1-9337-11ef-ab4b-005056a89546"
+    },
+    {
+      "meeting_id": "meeting_2024_03_28",
+      "date": "2024-03-28",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=2105",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=2105&doc_id=32af84bd-21e1-11ef-81ef-005056a89546"
+    },
+    {
+      "meeting_id": "meeting_2024_02_22",
+      "date": "2024-02-22",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=2089",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=2089&doc_id=982271df-010a-11ef-b231-0050569183fa"
+    },
+    {
+      "meeting_id": "meeting_2024_01_25",
+      "date": "2024-01-25",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=2082",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=2082&doc_id=6dcdcb84-dd7e-11ee-98bb-0050569183fa"
+    },
+    {
+      "meeting_id": "meeting_2023_12_07",
+      "date": "2023-12-07",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=2070",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=2070&doc_id=8870922f-dd7d-11ee-98bb-0050569183fa"
+    },
+    {
+      "meeting_id": "meeting_2023_11_09",
+      "date": "2023-11-09",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=2065",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=2065&doc_id=319e57a3-b0cc-11ee-bb82-0050569183fa"
+    },
+    {
+      "meeting_id": "meeting_2023_10_26",
+      "date": "2023-10-26",
+      "title": "Regular Meeting of the Board of Trustees (Part 2)",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=2063",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=2063&doc_id=dedfc0e1-826e-11ee-852f-0050569183fa"
+    },
+    {
+      "meeting_id": "meeting_2023_10_26",
+      "date": "2023-10-26",
+      "title": "Regular Meeting of the Board of Trustees (Part 1)",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=2062",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=2062&doc_id=d0065253-826e-11ee-852f-0050569183fa"
+    },
+    {
+      "meeting_id": "meeting_2023_09_28",
+      "date": "2023-09-28",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=2051",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=2051&doc_id=ba13a060-b0cc-11ee-bb82-0050569183fa"
+    },
+    {
+      "meeting_id": "meeting_2023_08_24",
+      "date": "2023-08-24",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=2040",
+      "minutes_url": null
+    },
+    {
+      "meeting_id": "meeting_2023_06_23",
+      "date": "2023-06-23",
+      "title": "Regular Meeting of the Board of Trustees (Part 2)",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=2019",
+      "minutes_url": null
+    },
+    {
+      "meeting_id": "meeting_2023_06_22",
+      "date": "2023-06-22",
+      "title": "Regular Meeting of the Board of Trustees (Part 1)",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=2018",
+      "minutes_url": null
+    },
+    {
+      "meeting_id": "meeting_2023_05_19",
+      "date": "2023-05-19",
+      "title": "Regular Meeting of the Board of Trustees (Part 2)",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=2010",
+      "minutes_url": null
+    },
+    {
+      "meeting_id": "meeting_2023_05_18",
+      "date": "2023-05-18",
+      "title": "Regular Meeting of the Board of Trustees (Part 1)",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=2009",
+      "minutes_url": null
+    },
+    {
+      "meeting_id": "meeting_2023_04_27",
+      "date": "2023-04-27",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=2000",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=2000&doc_id=34903e35-4211-11ee-9e9a-0050569183fa"
+    },
+    {
+      "meeting_id": "meeting_2023_03_23",
+      "date": "2023-03-23",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=1993",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=1993&doc_id=cf6bb312-e947-11ed-95dd-0050569183fa"
+    },
+    {
+      "meeting_id": "meeting_2023_02_16",
+      "date": "2023-02-16",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=1983",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=1983&doc_id=08cf3303-e948-11ed-95dd-0050569183fa"
+    },
+    {
+      "meeting_id": "meeting_2023_01_26",
+      "date": "2023-01-26",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=1976",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=1976&doc_id=ed7a49d1-e947-11ed-95dd-0050569183fa"
+    },
+    {
+      "meeting_id": "meeting_2022_12_08",
+      "date": "2022-12-08",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=1956",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=1956&doc_id=62414664-9ea4-11ed-96ab-0050569183fa"
+    },
+    {
+      "meeting_id": "meeting_2022_11_10",
+      "date": "2022-11-10",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=1946",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=1946&doc_id=f431c047-9ea4-11ed-96ab-0050569183fa"
+    },
+    {
+      "meeting_id": "meeting_2022_10_20",
+      "date": "2022-10-20",
+      "title": "Regular Meeting of the Board of Trustees (originally on Zoom)",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=1941",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=1941&doc_id=49c982cd-e940-11ed-95dd-0050569183fa"
+    },
+    {
+      "meeting_id": "meeting_2022_09_22",
+      "date": "2022-09-22",
+      "title": "Regular Meeting of the Board of Trustees (originally on Zoom)",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=1933",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=1933&doc_id=1e66b4ff-66d9-11ed-95a3-0050569183fa"
+    },
+    {
+      "meeting_id": "meeting_2022_08_25",
+      "date": "2022-08-25",
+      "title": "Regular Meeting of the Board of Trustees (originally on Zoom)",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=1922",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=1922&doc_id=242b52b5-517d-11ed-95a3-0050569183fa"
+    },
+    {
+      "meeting_id": "meeting_2022_06_23",
+      "date": "2022-06-23",
+      "title": "Regular Meeting of the Board of Trustees (originally on Zoom)",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=1907",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=1907&doc_id=11e15c59-2895-11ed-8da8-0050569183fa"
+    },
+    {
+      "meeting_id": "meeting_2022_05_19",
+      "date": "2022-05-19",
+      "title": "Regular Meeting of the Board of Trustees (originally on Zoom)",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=1899",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=1899&doc_id=4fe1bd69-e947-11ed-95dd-0050569183fa"
+    },
+    {
+      "meeting_id": "meeting_2022_04_21",
+      "date": "2022-04-21",
+      "title": "Regular Meeting of the Board of Trustees (originally on Zoom)",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=1892",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=1892&doc_id=32caf6c3-e6ae-11ec-9ad4-0050569183fa"
+    },
+    {
+      "meeting_id": "meeting_2022_03_24",
+      "date": "2022-03-24",
+      "title": "Regular Meeting of the Board of Trustees (originally on Zoom)",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=1877",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=1877&doc_id=3c2fcd01-d54a-11ec-bbb4-0050569183fa"
+    },
+    {
+      "meeting_id": "meeting_2022_02_24",
+      "date": "2022-02-24",
+      "title": "Regular Meeting of the Board of Trustees (originally on Zoom)",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=1867",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=1867&doc_id=16a8ec66-d54a-11ec-bbb4-0050569183fa"
+    },
+    {
+      "meeting_id": "meeting_2022_01_27",
+      "date": "2022-01-27",
+      "title": "Regular Meeting of the Board of Trustees (originally on Zoom)",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=1854",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=1854&doc_id=df6691ca-d549-11ec-bbb4-0050569183fa"
+    },
+    {
+      "meeting_id": "meeting_2021_12_09",
+      "date": "2021-12-09",
+      "title": "Regular Meeting of the Board of Trustees (originally on Zoom)",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=1844",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=1844&doc_id=a7b80b22-ec2d-11ec-9ad4-0050569183fa"
+    },
+    {
+      "meeting_id": "meeting_2021_11_16",
+      "date": "2021-11-16",
+      "title": "Regular Meeting of the Board of Trustees (originally on Zoom)",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=1834",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=1834&doc_id=840b01ff-ec2d-11ec-9ad4-0050569183fa"
+    },
+    {
+      "meeting_id": "meeting_2021_10_28",
+      "date": "2021-10-28",
+      "title": "Regular Meeting of the Board of Trustees (originally on Zoom)",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=1830",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=1830&doc_id=a48ae9a0-5c62-11ec-85e3-0050569183fa"
+    },
+    {
+      "meeting_id": "meeting_2021_09_23",
+      "date": "2021-09-23",
+      "title": "Regular Meeting of the Board of Trustees (originally on Zoom)",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=1820",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=1820&doc_id=f910fd3a-3e7a-11ec-a798-0050569183fa"
+    },
+    {
+      "meeting_id": "meeting_2021_08_26",
+      "date": "2021-08-26",
+      "title": "Regular Meeting of the Board of Trustees (originally on Zoom)",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=1806",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=1806&doc_id=d4c481e3-3e7a-11ec-a798-0050569183fa"
+    },
+    {
+      "meeting_id": "meeting_2021_06_24",
+      "date": "2021-06-24",
+      "title": "Regular Meeting of the Board of Trustees (originally on Zoom)",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=1790",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=1790&doc_id=9cfe6cc0-3d9e-11ec-a798-0050569183fa"
+    },
+    {
+      "meeting_id": "meeting_2021_05_20",
+      "date": "2021-05-20",
+      "title": "Regular Meeting of the Board of Trustees (originally on Zoom)",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=1741",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=1741&doc_id=01459a13-d5f4-11eb-bd7e-0050569183fa"
+    },
+    {
+      "meeting_id": "meeting_2021_04_29",
+      "date": "2021-04-29",
+      "title": "Regular Meeting of the Board of Trustees (originally on Zoom)",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=1732",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=1732&doc_id=766ca84b-baa4-11eb-8549-0050569183fa"
+    },
+    {
+      "meeting_id": "meeting_2021_03_25",
+      "date": "2021-03-25",
+      "title": "Regular Meeting of the Board of Trustees (originally on Zoom)",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=1722",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=1722&doc_id=a113ef56-3e7a-11ec-a798-0050569183fa"
+    },
+    {
+      "meeting_id": "meeting_2021_02_25",
+      "date": "2021-02-25",
+      "title": "Regular Meeting of the Board of Trustees (originally on Zoom)",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=1706",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=1706&doc_id=77f0b1a4-3e7a-11ec-a798-0050569183fa"
+    },
+    {
+      "meeting_id": "meeting_2021_01_28",
+      "date": "2021-01-28",
+      "title": "Regular Meeting of the Board of Trustees (originally on Zoom)",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=1694",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=1694&doc_id=b8dc2478-7ac4-11eb-96cb-0050569183fa"
+    },
+    {
+      "meeting_id": "meeting_2020_12_10",
+      "date": "2020-12-10",
+      "title": "Regular Meeting of the Board of Trustees (originally on Zoom)",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=1684",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=1684&doc_id=4ac5ec5b-3e7a-11ec-a798-0050569183fa"
+    },
+    {
+      "meeting_id": "meeting_2020_11_12",
+      "date": "2020-11-12",
+      "title": "Regular Meeting of the Board of Trustees (originally on Zoom)",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=1678",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=1678&doc_id=1f2bd969-3e7a-11ec-a798-0050569183fa"
+    },
+    {
+      "meeting_id": "meeting_2020_10_22",
+      "date": "2020-10-22",
+      "title": "Regular Meeting of the Board of Trustees (originally on Zoom)",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=1674",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=1674&doc_id=f0855f7b-3e79-11ec-a798-0050569183fa"
+    },
+    {
+      "meeting_id": "meeting_2020_09_24",
+      "date": "2020-09-24",
+      "title": "Regular Meeting of the Board of Trustees (originally on Zoom)",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=1660",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=1660&doc_id=aa0ffe77-156b-11eb-80dd-0050569183fa"
+    },
+    {
+      "meeting_id": "meeting_2020_08_27",
+      "date": "2020-08-27",
+      "title": "Regular Meeting of the Board of Trustees (originally on Zoom)",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=1650",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=1650&doc_id=3969fafd-ff90-11ea-b6a9-0050569183fa"
+    },
+    {
+      "meeting_id": "meeting_2020_06_25",
+      "date": "2020-06-25",
+      "title": "Regular Meeting of the Board of Trustees (originally on Zoom)",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=1633",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=1633&doc_id=862d4a40-ec86-11ea-b6a9-0050569183fa"
+    },
+    {
+      "meeting_id": "meeting_2020_05_28",
+      "date": "2020-05-28",
+      "title": "Regular Meeting of the Board of Trustees (originally on Zoom)",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=1613",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=1613&doc_id=f41b217d-b7f5-11ea-888f-0050569183fa"
+    },
+    {
+      "meeting_id": "meeting_2020_04_23",
+      "date": "2020-04-23",
+      "title": "Regular Meeting of the Board of Trustees (originally on Zoom)",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=1603",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=1603&doc_id=f8ddbbd3-a1df-11ea-9e08-0050569183fa"
+    },
+    {
+      "meeting_id": "meeting_2020_03_26",
+      "date": "2020-03-26",
+      "title": "Regular Meeting of the Board of Trustees (originally on Zoom)",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=1583",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=1583&doc_id=73803086-8fe3-11ea-a2af-0050569183fa"
+    },
+    {
+      "meeting_id": "meeting_2020_02_27",
+      "date": "2020-02-27",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=1564",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=1564&doc_id=3afbf739-74a7-11ea-99b9-0050569183fa"
+    },
+    {
+      "meeting_id": "meeting_2020_01_23",
+      "date": "2020-01-23",
+      "title": "Regular Meeting of the Board of Trustees (Part 2)",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=1552",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=1552&doc_id=3e9fbdfd-5a74-11ea-9ca4-0050569183fa"
+    },
+    {
+      "meeting_id": "meeting_2020_01_23",
+      "date": "2020-01-23",
+      "title": "Regular Meeting of the Board of Trustees (Part 1)",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=1551",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=1551&doc_id=2193aca3-5a74-11ea-9ca4-0050569183fa"
+    },
+    {
+      "meeting_id": "meeting_2019_12_12",
+      "date": "2019-12-12",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=1541",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=1541&doc_id=6b0b95bb-5a74-11ea-9ca4-0050569183fa"
+    },
+    {
+      "meeting_id": "meeting_2019_11_14",
+      "date": "2019-11-14",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=1529",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=1529&doc_id=b8db7908-3e79-11ec-a798-0050569183fa"
+    },
+    {
+      "meeting_id": "meeting_2019_10_24",
+      "date": "2019-10-24",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=1518",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=1518&doc_id=07132e41-0828-11ea-8baa-0050569183fa"
+    },
+    {
+      "meeting_id": "meeting_2019_09_26",
+      "date": "2019-09-26",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=1495",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=1495&doc_id=7f8e625c-3e92-11ec-a798-0050569183fa"
+    },
+    {
+      "meeting_id": "meeting_2019_08_22",
+      "date": "2019-08-22",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=1486",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=1486&doc_id=b32346c7-eeef-11e9-9542-0050569183fa"
+    },
+    {
+      "meeting_id": "meeting_2019_06_27",
+      "date": "2019-06-27",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=1473",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=1473&doc_id=448c23d5-dbd5-11e9-9542-0050569183fa"
+    },
+    {
+      "meeting_id": "meeting_2019_05_30",
+      "date": "2019-05-30",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=1465",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=1465&doc_id=4ff5418e-9d18-11e9-b00b-0050569183fa"
+    },
+    {
+      "meeting_id": "meeting_2019_04_25",
+      "date": "2019-04-25",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=1454",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=1454&doc_id=906ad7e4-8401-11e9-848a-0050569183fa"
+    },
+    {
+      "meeting_id": "meeting_2019_03_21",
+      "date": "2019-03-21",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=1439",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=1439&doc_id=5302b161-8401-11e9-848a-0050569183fa"
+    },
+    {
+      "meeting_id": "meeting_2019_02_28",
+      "date": "2019-02-28",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=1419",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=1419&doc_id=e2071d9c-66b8-11e9-a164-0050569183fa"
+    },
+    {
+      "meeting_id": "meeting_2019_01_24",
+      "date": "2019-01-24",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=1395",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=1395&doc_id=91db3118-3f9f-11e9-aee3-0050569183fa"
+    },
+    {
+      "meeting_id": "meeting_2018_12_13",
+      "date": "2018-12-13",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=1378",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=1378&doc_id=50b5d9ac-24d4-11e9-b021-0050569183fa"
+    },
+    {
+      "meeting_id": "meeting_2018_11_08",
+      "date": "2018-11-08",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=1340",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=1340&doc_id=408829b5-fe8c-11e8-9afa-0050569183fa"
+    },
+    {
+      "meeting_id": "meeting_2018_10_18",
+      "date": "2018-10-18",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=1301",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=1301&doc_id=a34b4494-e491-11e8-9302-0050569183fa"
+    },
+    {
+      "meeting_id": "meeting_2018_09_27",
+      "date": "2018-09-27",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=1279",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=1279&doc_id=8f5d120b-d7e5-11e8-9302-0050569183fa"
+    },
+    {
+      "meeting_id": "meeting_2018_08_30",
+      "date": "2018-08-30",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=1219",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=1219&doc_id=07b97f80-bdfa-11e8-a2a6-0050569183fa"
+    },
+    {
+      "meeting_id": "meeting_2018_06_28",
+      "date": "2018-06-28",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=1177",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=1177&doc_id=db644743-ad60-11e8-b023-00505691de41"
+    },
+    {
+      "meeting_id": "meeting_2018_05_17",
+      "date": "2018-05-17",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=1160",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=1160&doc_id=e51e328f-9c1a-11e8-aa59-00505691de41"
+    },
+    {
+      "meeting_id": "meeting_2018_04_26",
+      "date": "2018-04-26",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=1139",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=1139&doc_id=06f1aaf5-5ed9-11e8-8074-00505691de41"
+    },
+    {
+      "meeting_id": "meeting_2018_03_22",
+      "date": "2018-03-22",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=1097",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=1097&doc_id=57d857a8-4e4e-11e8-9dab-00505691de41"
+    },
+    {
+      "meeting_id": "meeting_2018_02_22",
+      "date": "2018-02-22",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=1059",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=1059&doc_id=a2c9606f-3c2a-11e8-a67b-00505691de41"
+    },
+    {
+      "meeting_id": "meeting_2018_01_25",
+      "date": "2018-01-25",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=1026",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=1026&doc_id=81c466a0-3c2a-11e8-a67b-00505691de41"
+    },
+    {
+      "meeting_id": "meeting_2017_12_14",
+      "date": "2017-12-14",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=990",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=990&doc_id=6ec96df5-0627-11e8-8dcb-00505691de41"
+    },
+    {
+      "meeting_id": "meeting_2017_11_09",
+      "date": "2017-11-09",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=934",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=934&doc_id=4a722abe-0627-11e8-8dcb-00505691de41"
+    },
+    {
+      "meeting_id": "meeting_2017_10_26",
+      "date": "2017-10-26",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=903",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=903&doc_id=6f867a2f-e697-11e7-a872-00505691de41"
+    },
+    {
+      "meeting_id": "meeting_2017_09_21",
+      "date": "2017-09-21",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=836",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=836&doc_id=98a70fba-ca5f-11e7-95a0-00505691de41"
+    },
+    {
+      "meeting_id": "meeting_2017_08_24",
+      "date": "2017-08-24",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=774",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=774&doc_id=cb4ab1ce-a7d0-11e7-b89c-00505691de41"
+    },
+    {
+      "meeting_id": "meeting_2017_06_22",
+      "date": "2017-06-22",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=750",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=750&doc_id=aeeaa769-a7d0-11e7-b89c-00505691de41"
+    },
+    {
+      "meeting_id": "meeting_2017_05_25",
+      "date": "2017-05-25",
+      "title": "Regular Meeting of the Board of Trustees (Audio Only)",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=748",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=748&doc_id=94b76fcc-a7d0-11e7-b89c-00505691de41"
+    },
+    {
+      "meeting_id": "meeting_2017_04_27",
+      "date": "2017-04-27",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=740",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=740&doc_id=2280258c-584a-11e7-b9a7-00219ba2f017"
+    },
+    {
+      "meeting_id": "meeting_2017_03_23",
+      "date": "2017-03-23",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=707",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=707&doc_id=2787418e-463b-11e7-b9a7-00219ba2f017"
+    },
+    {
+      "meeting_id": "meeting_2017_02_23",
+      "date": "2017-02-23",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=676",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=676&doc_id=f87a2d50-2617-11e7-b9a7-00219ba2f017"
+    },
+    {
+      "meeting_id": "meeting_2017_01_26",
+      "date": "2017-01-26",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=655",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=655&doc_id=cc7db473-2617-11e7-b9a7-00219ba2f017"
+    },
+    {
+      "meeting_id": "meeting_2016_12_15",
+      "date": "2016-12-15",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=639",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=639&doc_id=99136d9c-2617-11e7-b9a7-00219ba2f017"
+    },
+    {
+      "meeting_id": "meeting_2016_11_17",
+      "date": "2016-11-17",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=633",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=633&doc_id=7eea3c78-e756-11e6-8893-00219ba2f017"
+    },
+    {
+      "meeting_id": "meeting_2016_10_27",
+      "date": "2016-10-27",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=627",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=627&doc_id=535aca71-e756-11e6-8893-00219ba2f017"
+    },
+    {
+      "meeting_id": "meeting_2016_09_22",
+      "date": "2016-09-22",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=616",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=616&doc_id=7fc244f4-a624-11e6-9380-00219ba2f017"
+    },
+    {
+      "meeting_id": "meeting_2016_08_25",
+      "date": "2016-08-25",
+      "title": "Regular Meeting of the Board of Trustees (part 2)",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=607",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=607&doc_id=ea86a7ac-e755-11e6-8893-00219ba2f017"
+    },
+    {
+      "meeting_id": "meeting_2016_08_25",
+      "date": "2016-08-25",
+      "title": "Regular Meeting of the Board of Trustees (part 1)",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=606",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=606&doc_id=0d53b5a6-e756-11e6-8893-00219ba2f017"
+    },
+    {
+      "meeting_id": "meeting_2016_07_28",
+      "date": "2016-07-28",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=601",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=601&doc_id=cc7e1125-7622-11e6-b3ab-00219ba2f017"
+    },
+    {
+      "meeting_id": "meeting_2016_06_23",
+      "date": "2016-06-23",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=600",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=600&doc_id=1b4084af-6961-11e6-b3ab-00219ba2f017"
+    },
+    {
+      "meeting_id": "meeting_2016_05_26",
+      "date": "2016-05-26",
+      "title": "Regular Meeting of the Board of Trustees (Audio Only)",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=597",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=597&doc_id=b1c0a884-52c8-11e6-b3ab-00219ba2f017"
+    },
+    {
+      "meeting_id": "meeting_2016_04_28",
+      "date": "2016-04-28",
+      "title": "Regular Meeting of the Board of Trustees (part 3)",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=590",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=590&doc_id=c30a583f-340e-11e6-b3ab-00219ba2f017"
+    },
+    {
+      "meeting_id": "meeting_2016_04_28",
+      "date": "2016-04-28",
+      "title": "Regular Meeting of the Board of Trustees (part 2)",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=592",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=592&doc_id=d72e4a0d-340e-11e6-b3ab-00219ba2f017"
+    },
+    {
+      "meeting_id": "meeting_2016_04_28",
+      "date": "2016-04-28",
+      "title": "Regular Meeting of the Board of Trustees (part 1)",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=589",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=589&doc_id=f0e417e7-340e-11e6-b3ab-00219ba2f017"
+    },
+    {
+      "meeting_id": "meeting_2016_03_24",
+      "date": "2016-03-24",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=587",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=587&doc_id=8268fdb4-3337-11e6-b3ab-00219ba2f017"
+    },
+    {
+      "meeting_id": "meeting_2016_02_25",
+      "date": "2016-02-25",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=581",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=581&doc_id=d899e4ac-0e84-11e6-b3ab-00219ba2f017"
+    },
+    {
+      "meeting_id": "meeting_2016_01_28",
+      "date": "2016-01-28",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=570",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=570&doc_id=35bf629d-e0c7-11e5-b3ab-00219ba2f017"
+    },
+    {
+      "meeting_id": "meeting_2015_12_10",
+      "date": "2015-12-10",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=562",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=562&doc_id=b6f631fa-e0c7-11e5-b3ab-00219ba2f017"
+    },
+    {
+      "meeting_id": "meeting_2015_11_12",
+      "date": "2015-11-12",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=561",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=561&doc_id=8b892d0a-e0c7-11e5-b3ab-00219ba2f017"
+    },
+    {
+      "meeting_id": "meeting_2015_10_22",
+      "date": "2015-10-22",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=557",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=557&doc_id=df474066-8a75-11e5-b3ab-00219ba2f017"
+    },
+    {
+      "meeting_id": "meeting_2015_09_24",
+      "date": "2015-09-24",
+      "title": "Regular Meeting of the Board of Trustees (part 2)",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=532",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=532&doc_id=5e9f4012-843a-11e5-b3ab-00219ba2f017"
+    },
+    {
+      "meeting_id": "meeting_2015_09_24",
+      "date": "2015-09-24",
+      "title": "Regular Meeting of the Board of Trustees (part 1)",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=536",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=536&doc_id=952ec1d7-843a-11e5-b3ab-00219ba2f017"
+    },
+    {
+      "meeting_id": "meeting_2013_06_27",
+      "date": "2013-06-27",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=238",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=238&doc_id=35d5d578-565e-1031-9668-843478bb431f"
+    },
+    {
+      "meeting_id": "meeting_2013_05_23",
+      "date": "2013-05-23",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=235",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=235&doc_id=da83e331-3480-1031-a604-3f6f72ec48a5"
+    },
+    {
+      "meeting_id": "meeting_2013_04_25",
+      "date": "2013-04-25",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=228",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=228&doc_id=eae26a2b-348e-1031-a604-3f6f72ec48a5"
+    },
+    {
+      "meeting_id": "meeting_2013_03_21",
+      "date": "2013-03-21",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=224",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=224&doc_id=a694779d-0320-1031-a194-16461ec3770c"
+    },
+    {
+      "meeting_id": "meeting_2013_02_28",
+      "date": "2013-02-28",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=216",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=216&doc_id=c99c7509-0320-1031-a194-16461ec3770c"
+    },
+    {
+      "meeting_id": "meeting_2013_01_24",
+      "date": "2013-01-24",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=202",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=202&doc_id=737775ea-e138-1030-9122-24b3144c4264"
+    },
+    {
+      "meeting_id": "meeting_2012_12_13",
+      "date": "2012-12-13",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=196",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=196&doc_id=ed2fec3a-bbb1-1030-9122-24b3144c4264"
+    },
+    {
+      "meeting_id": "meeting_2012_11_15",
+      "date": "2012-11-15",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=190",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=190&doc_id=6149405e-c03b-1030-9122-24b3144c4264"
+    },
+    {
+      "meeting_id": "meeting_2012_10_25",
+      "date": "2012-10-25",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=178",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=178&doc_id=8f51da18-c03b-1030-9122-24b3144c4264"
+    },
+    {
+      "meeting_id": "meeting_2012_09_27",
+      "date": "2012-09-27",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=137",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=137&doc_id=1b9188ad-7665-1030-9122-24b3144c4264"
+    },
+    {
+      "meeting_id": "meeting_2012_08_23",
+      "date": "2012-08-23",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=127",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=127&doc_id=11ddb480-5893-1030-8a68-05ee9c406e66"
+    },
+    {
+      "meeting_id": "meeting_2012_07_26",
+      "date": "2012-07-26",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=119",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=119&doc_id=ee0211f5-6912-1030-9122-24b3144c4264"
+    },
+    {
+      "meeting_id": "meeting_2012_06_28",
+      "date": "2012-06-28",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=103",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=103&doc_id=c59dcb23-5893-1030-8a68-05ee9c406e66"
+    },
+    {
+      "meeting_id": "meeting_2012_05_24",
+      "date": "2012-05-24",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=95",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=95&doc_id=c3bbde46-1027-1030-8c80-112279f76d3b"
+    },
+    {
+      "meeting_id": "meeting_2012_04_26",
+      "date": "2012-04-26",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=90",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=90&doc_id=c18d09eb-f4d1-102f-a808-375b24a1bccc"
+    },
+    {
+      "meeting_id": "meeting_2012_03_22",
+      "date": "2012-03-22",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=87",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=87&doc_id=26882cb3-df8b-102f-a808-375b24a1bccc"
+    },
+    {
+      "meeting_id": "meeting_2012_02_23",
+      "date": "2012-02-23",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=84",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=84&doc_id=6345340e-c5d1-102f-a808-375b24a1bccc"
+    },
+    {
+      "meeting_id": "meeting_2012_01_26",
+      "date": "2012-01-26",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=80",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=80&doc_id=6090a67d-ae1c-102f-a808-375b24a1bccc"
+    },
+    {
+      "meeting_id": "meeting_2011_12_15",
+      "date": "2011-12-15",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=72",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=72&doc_id=7e246795-9991-102f-a808-375b24a1bccc"
+    },
+    {
+      "meeting_id": "meeting_2011_11_17",
+      "date": "2011-11-17",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=68",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=68&doc_id=b69570e5-770a-102f-a808-375b24a1bccc"
+    },
+    {
+      "meeting_id": "meeting_2011_10_27",
+      "date": "2011-10-27",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=59",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=59&doc_id=e692c888-60fc-102f-a808-375b24a1bccc"
+    },
+    {
+      "meeting_id": "meeting_2011_09_22",
+      "date": "2011-09-22",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=56",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=56&doc_id=22a9f84e-60fd-102f-a808-375b24a1bccc"
+    },
+    {
+      "meeting_id": "meeting_2011_08_25",
+      "date": "2011-08-25",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=53",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=53&doc_id=d4c0ed5c-3518-102f-9769-f37fa2b089a0"
+    },
+    {
+      "meeting_id": "meeting_2011_07_28",
+      "date": "2011-07-28",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=49",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=49&doc_id=e613e874-20c9-102f-9769-f37fa2b089a0"
+    },
+    {
+      "meeting_id": "meeting_2011_06_23",
+      "date": "2011-06-23",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=46",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=46&doc_id=9b3234c3-084d-102f-bfd0-5f1650509f30"
+    },
+    {
+      "meeting_id": "meeting_2011_05_26",
+      "date": "2011-05-26",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=37",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=37&doc_id=3f085016-eca3-102e-bfd0-5f1650509f30"
+    },
+    {
+      "meeting_id": "meeting_2011_04_28",
+      "date": "2011-04-28",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=33",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=33&doc_id=1f4a8d48-d78a-102e-bfd0-5f1650509f30"
+    },
+    {
+      "meeting_id": "meeting_2011_03_24",
+      "date": "2011-03-24",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=30",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=30&doc_id=a0b5d440-c346-102e-bfd0-5f1650509f30"
+    },
+    {
+      "meeting_id": "meeting_2011_02_24",
+      "date": "2011-02-24",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=19",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=19&doc_id=7bfaff18-a230-102e-bfd0-5f1650509f30"
+    },
+    {
+      "meeting_id": "meeting_2011_01_27",
+      "date": "2011-01-27",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=175",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=175&doc_id=3af85b36-6f65-1030-9122-24b3144c4264"
+    },
+    {
+      "meeting_id": "meeting_2010_12_16",
+      "date": "2010-12-16",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=425",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=425&doc_id=7cd74c29-c68e-11e4-b5ce-00219ba2f017"
+    },
+    {
+      "meeting_id": "meeting_2010_11_18",
+      "date": "2010-11-18",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=427",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=427&doc_id=41271b30-c83a-11e4-b5ce-00219ba2f017"
+    },
+    {
+      "meeting_id": "meeting_2010_10_28",
+      "date": "2010-10-28",
+      "title": "Regular Meeting of the Board of Trustees (part 2)",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=430",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=430&doc_id=91aaeead-c9c1-11e4-b5ce-00219ba2f017"
+    },
+    {
+      "meeting_id": "meeting_2010_10_28",
+      "date": "2010-10-28",
+      "title": "Regular Meeting of the Board of Trustees (part 1)",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=429",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=429&doc_id=bf59d6d6-c9bb-11e4-b5ce-00219ba2f017"
+    },
+    {
+      "meeting_id": "meeting_2010_09_23",
+      "date": "2010-09-23",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=431",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=431&doc_id=b93740e5-c9c8-11e4-b5ce-00219ba2f017"
+    },
+    {
+      "meeting_id": "meeting_2010_08_26",
+      "date": "2010-08-26",
+      "title": "Regular Meeting of the Board of Trustees (part 2)",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=439",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=439&doc_id=b494dd5f-cc30-11e4-b5ce-00219ba2f017"
+    },
+    {
+      "meeting_id": "meeting_2010_08_26",
+      "date": "2010-08-26",
+      "title": "Regular Meeting of the Board of Trustees (part 1)",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=432",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=432&doc_id=8944569b-c9d0-11e4-b5ce-00219ba2f017"
+    },
+    {
+      "meeting_id": "meeting_2010_07_29",
+      "date": "2010-07-29",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=435",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=435&doc_id=5ad650fc-cc0c-11e4-b5ce-00219ba2f017"
+    },
+    {
+      "meeting_id": "meeting_2010_06_24",
+      "date": "2010-06-24",
+      "title": "Regular Meeting of the Board of Trustees (part 2)",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=437",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=437&doc_id=7fdd267f-cc2d-11e4-b5ce-00219ba2f017"
+    },
+    {
+      "meeting_id": "meeting_2010_06_24",
+      "date": "2010-06-24",
+      "title": "Regular Meeting of the Board of Trustees (part 1)",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=436",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=436&doc_id=06ab587e-cc29-11e4-b5ce-00219ba2f017"
+    },
+    {
+      "meeting_id": "meeting_2010_05_27",
+      "date": "2010-05-27",
+      "title": "Regular Meeting of the Board of Trustees (part 2)",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=447",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=447&doc_id=c239fa17-ccf9-11e4-b5ce-00219ba2f017"
+    },
+    {
+      "meeting_id": "meeting_2010_05_27",
+      "date": "2010-05-27",
+      "title": "Regular Meeting of the Board of Trustees (part 1)",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=446",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=446&doc_id=e70bd85d-cc61-11e4-b5ce-00219ba2f017"
+    },
+    {
+      "meeting_id": "meeting_2010_04_29",
+      "date": "2010-04-29",
+      "title": "Regular Meeting of the Board of Trustees (part 2)",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=449",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=449&doc_id=2c4f4069-cd08-11e4-b5ce-00219ba2f017"
+    },
+    {
+      "meeting_id": "meeting_2010_04_29",
+      "date": "2010-04-29",
+      "title": "Regular Meeting of the Board of Trustees (part 1)",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=448",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=448&doc_id=e5aadbc5-cd00-11e4-b5ce-00219ba2f017"
+    },
+    {
+      "meeting_id": "meeting_2010_03_25",
+      "date": "2010-03-25",
+      "title": "Regular Meeting of the Board of Trustees (part 2)",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=451",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=451&doc_id=f580314a-cd12-11e4-b5ce-00219ba2f017"
+    },
+    {
+      "meeting_id": "meeting_2010_03_25",
+      "date": "2010-03-25",
+      "title": "Regular Meeting of the Board of Trustees (part 1)",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=450",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=450&doc_id=b6df2d3a-cd0d-11e4-b5ce-00219ba2f017"
+    },
+    {
+      "meeting_id": "meeting_2010_02_25",
+      "date": "2010-02-25",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=452",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=452&doc_id=10e65eac-cd1b-11e4-b5ce-00219ba2f017"
+    },
+    {
+      "meeting_id": "meeting_2010_01_28",
+      "date": "2010-01-28",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=453",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=453&doc_id=cc8139c8-cd22-11e4-b5ce-00219ba2f017"
+    },
+    {
+      "meeting_id": "meeting_2009_12_17",
+      "date": "2009-12-17",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=481",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=481&doc_id=541e6e5f-f510-11e4-b5ce-00219ba2f017"
+    },
+    {
+      "meeting_id": "meeting_2009_11_19",
+      "date": "2009-11-19",
+      "title": "Regular Meeting of the Board of Trustees (part 2)",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=483",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=483&doc_id=509e1049-f51c-11e4-b5ce-00219ba2f017"
+    },
+    {
+      "meeting_id": "meeting_2009_11_19",
+      "date": "2009-11-19",
+      "title": "Regular Meeting of the Board of Trustees (part 1)",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=482",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=482&doc_id=29104581-f519-11e4-b5ce-00219ba2f017"
+    },
+    {
+      "meeting_id": "meeting_2009_10_22",
+      "date": "2009-10-22",
+      "title": "Regular Meeting of the Board of Trustees (part 2)",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=486",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=486&doc_id=2c499673-f848-11e4-b5ce-00219ba2f017"
+    },
+    {
+      "meeting_id": "meeting_2009_10_22",
+      "date": "2009-10-22",
+      "title": "Regular Meeting of the Board of Trustees (part 1)",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=485",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=485&doc_id=a52f4bfe-f844-11e4-b5ce-00219ba2f017"
+    },
+    {
+      "meeting_id": "meeting_2009_09_24",
+      "date": "2009-09-24",
+      "title": "Regular Meeting of the Board of Trustees (part 2)",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=488",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=488&doc_id=d5a2cda9-f911-11e4-b5ce-00219ba2f017"
+    },
+    {
+      "meeting_id": "meeting_2009_09_24",
+      "date": "2009-09-24",
+      "title": "Regular Meeting of the Board of Trustees (part 1)",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=487",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=487&doc_id=2e7eeb85-f90e-11e4-b5ce-00219ba2f017"
+    },
+    {
+      "meeting_id": "meeting_2009_08_27",
+      "date": "2009-08-27",
+      "title": "Regular Meeting of the Board of Trustees (part 2)",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=491",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=491&doc_id=847d4c8b-f9d1-11e4-b5ce-00219ba2f017"
+    },
+    {
+      "meeting_id": "meeting_2009_08_27",
+      "date": "2009-08-27",
+      "title": "Regular Meeting of the Board of Trustees (part 1)",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=490",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=490&doc_id=935f3693-f9cd-11e4-b5ce-00219ba2f017"
+    },
+    {
+      "meeting_id": "meeting_2009_07_23",
+      "date": "2009-07-23",
+      "title": "Regular Meeting of the Board of Trustees (part 2)",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=494",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=494&doc_id=d54d97bd-fa94-11e4-b5ce-00219ba2f017"
+    },
+    {
+      "meeting_id": "meeting_2009_07_23",
+      "date": "2009-07-23",
+      "title": "Regular Meeting of the Board of Trustees (part 1)",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=493",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=493&doc_id=b734c9cd-fa92-11e4-b5ce-00219ba2f017"
+    },
+    {
+      "meeting_id": "meeting_2009_06_25",
+      "date": "2009-06-25",
+      "title": "Regular Meeting of the Board of Trustees (part 2)",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=498",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=498&doc_id=4ef11ab7-0a55-11e5-b5ce-00219ba2f017"
+    },
+    {
+      "meeting_id": "meeting_2009_06_25",
+      "date": "2009-06-25",
+      "title": "Regular Meeting of the Board of Trustees (part 1)",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=497",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=497&doc_id=71fc2c94-0a51-11e5-b5ce-00219ba2f017"
+    },
+    {
+      "meeting_id": "meeting_2009_05_28",
+      "date": "2009-05-28",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=499",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=499&doc_id=be28be05-24f6-11e5-b5ce-00219ba2f017"
+    },
+    {
+      "meeting_id": "meeting_2009_04_30",
+      "date": "2009-04-30",
+      "title": "Regular Meeting of the Board of Trustees (part 2)",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=501",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=501&doc_id=a09f10e4-250b-11e5-b5ce-00219ba2f017"
+    },
+    {
+      "meeting_id": "meeting_2009_04_30",
+      "date": "2009-04-30",
+      "title": "Regular Meeting of the Board of Trustees (part 1)",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=500",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=500&doc_id=a12f4e1f-2503-11e5-b5ce-00219ba2f017"
+    },
+    {
+      "meeting_id": "meeting_2009_03_26",
+      "date": "2009-03-26",
+      "title": "Regular Meeting of the Board of Trustees (part 2)",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=504",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=504&doc_id=272013aa-25bc-11e5-b5ce-00219ba2f017"
+    },
+    {
+      "meeting_id": "meeting_2009_03_26",
+      "date": "2009-03-26",
+      "title": "Regular Meeting of the Board of Trustees (part 1)",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=503",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=503&doc_id=262ab3eb-25b6-11e5-b5ce-00219ba2f017"
+    },
+    {
+      "meeting_id": "meeting_2009_02_26",
+      "date": "2009-02-26",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=505",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=505&doc_id=47e0a020-25c4-11e5-b5ce-00219ba2f017"
+    },
+    {
+      "meeting_id": "meeting_2009_01_29",
+      "date": "2009-01-29",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=506",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=506&doc_id=f3e60b58-25cd-11e5-b5ce-00219ba2f017"
+    },
+    {
+      "meeting_id": "meeting_2006_06_22",
+      "date": "2006-06-22",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=1783",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=1783&doc_id=d5c2349f-2e2d-11ed-8da8-0050569183fa"
+    },
+    {
+      "meeting_id": "meeting_2006_05_25",
+      "date": "2006-05-25",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=1784",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=1784&doc_id=3101e5a2-2a2c-11ed-8da8-0050569183fa"
+    },
+    {
+      "meeting_id": "meeting_2006_04_27",
+      "date": "2006-04-27",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=1785",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=1785&doc_id=acbf9fb0-23f6-11ed-b1ab-0050569183fa"
+    },
+    {
+      "meeting_id": "meeting_2006_03_30",
+      "date": "2006-03-30",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=1786",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=1786&doc_id=74dc043f-2329-11ed-b1ab-0050569183fa"
+    },
+    {
+      "meeting_id": "meeting_2006_02_23",
+      "date": "2006-02-23",
+      "title": "Regular Meeting of the Board of Trustees",
+      "agenda_url": "https://ccsf.granicus.com/AgendaViewer.php?view_id=3&clip_id=1787",
+      "minutes_url": "https://ccsf.granicus.com/MinutesViewer.php?view_id=3&clip_id=1787&doc_id=f3f7d845-2002-11ed-b1ab-0050569183fa"
+    }
+  ]
+}

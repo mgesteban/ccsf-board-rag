@@ -1,0 +1,33 @@
+# CCSF Board RAG Chatbot Dependencies
+
+# Web Scraping
+playwright>=1.40.0
+beautifulsoup4>=4.12.0
+requests>=2.31.0
+
+# PDF Processing
+PyMuPDF>=1.23.0  # imported as fitz
+
+# RAG Framework
+llama-index>=0.10.0
+llama-index-llms-anthropic>=0.1.0
+llama-index-embeddings-huggingface>=0.1.0
+
+# Vector Database
+chromadb>=0.4.0
+
+# Embeddings
+sentence-transformers>=2.2.0
+
+# LLM
+anthropic>=0.18.0
+
+# Web Interface
+streamlit>=1.30.0
+
+# Utilities
+python-dotenv>=1.0.0
+tqdm>=4.66.0
+
+# Development
+pytest>=7.4.0
