@@ -4,7 +4,7 @@ Copy and paste the prompt below into Claude Code in VSCode to start your project
 
 ---
 
-## 🚀 COPY THIS PROMPT TO CLAUDE CODE:
+## COPY THIS PROMPT TO CLAUDE CODE:
 
 ```
 I'm building a RAG chatbot for CCSF Board of Trustees meetings. I have a comprehensive project plan in CLAUDE.md - please read it first.
@@ -37,7 +37,7 @@ Let's build this step by step, completing each phase before moving to the next. 
 
 ---
 
-## 📋 Follow-Up Prompts for Each Phase
+## Follow-Up Prompts for Each Phase
 
 Save these prompts for later phases:
 
@@ -193,7 +193,7 @@ Run the evaluation and identify areas for improvement.
 
 ---
 
-## 🔧 Troubleshooting
+## Troubleshooting
 
 ### "MCP server not found"
 Make sure Playwright and Streamlit MCP servers are installed and configured in VSCode settings.
@@ -209,7 +209,7 @@ Ask Claude Code to take a fresh screenshot and re-analyze the page structure.
 
 ---
 
-## 📁 File Checklist
+## File Checklist
 
 Before starting, ensure you have:
 - [ ] VSCode with Claude Code extension installed
@@ -219,4 +219,4 @@ Before starting, ensure you have:
 - [ ] Python 3.9+ installed
 - [ ] The CLAUDE.md file in your project directory
 
-Good luck with your project! 🎓
+Good luck with your project!

@@ -5,7 +5,7 @@
 
 ---
 
-## 🎯 Project Overview
+## Project Overview
 
 **Goal**: Build a RAG (Retrieval-Augmented Generation) chatbot that answers questions about City College of San Francisco (CCSF) Board of Trustees meetings using scraped agendas and minutes.
 
@@ -17,7 +17,7 @@
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 | Component | Technology | Why This Choice |
 |-----------|------------|-----------------|
@@ -32,7 +32,7 @@
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 ccsf-board-rag/
@@ -84,7 +84,7 @@ ccsf-board-rag/
 
 ---
 
-## 🔌 MCP Server Integration
+## MCP Server Integration
 
 ### Playwright MCP Server
 **Purpose**: Browser automation for scraping JavaScript-heavy Granicus pages
@@ -128,9 +128,9 @@ ccsf-board-rag/
 
 ---
 
-## 📋 Implementation Phases
+## Implementation Phases
 
-### Phase 1: Project Setup ✅
+### Phase 1: Project Setup [COMPLETE]
 **Status**: Complete
 
 **Tasks**:
@@ -148,7 +148,7 @@ python -c "import chromadb; import llama_index; import anthropic; import streaml
 
 ---
 
-### Phase 2: URL Discovery ✅
+### Phase 2: URL Discovery [COMPLETE]
 **Status**: Complete
 
 **Goal**: Scrape the Granicus archive to find all agenda and minutes URLs
@@ -196,7 +196,7 @@ python -c "import chromadb; import llama_index; import anthropic; import streaml
 
 ---
 
-### Phase 3: Document Extraction 🔲
+### Phase 3: Document Extraction [PENDING]
 **Status**: Not Started
 
 **Goal**: Download PDFs and extract text from all agendas and minutes
@@ -243,7 +243,7 @@ python -c "import chromadb; import llama_index; import anthropic; import streaml
 
 ---
 
-### Phase 4: Text Chunking 🔲
+### Phase 4: Text Chunking [PENDING]
 **Status**: Not Started
 
 **Goal**: Split documents into smaller chunks suitable for RAG retrieval
@@ -284,7 +284,7 @@ Fallback: Recursive character splitting
 
 ---
 
-### Phase 5: Vector Store Setup 🔲
+### Phase 5: Vector Store Setup [PENDING]
 **Status**: Not Started
 
 **Goal**: Create embeddings and store in ChromaDB for similarity search
@@ -326,7 +326,7 @@ def get_stats() -> dict:
 
 ---
 
-### Phase 6: RAG Query Engine 🔲
+### Phase 6: RAG Query Engine [PENDING]
 **Status**: Not Started
 
 **Goal**: Connect retrieval to Claude for question answering
@@ -368,7 +368,7 @@ TOP_K_RETRIEVAL = 5
 
 ---
 
-### Phase 7: Streamlit Interface 🔲
+### Phase 7: Streamlit Interface [PENDING]
 **Status**: Not Started
 
 **Goal**: Create user-friendly chat interface
@@ -378,7 +378,7 @@ TOP_K_RETRIEVAL = 5
 **UI Components**:
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│  🎓 CCSF Board Meetings Assistant                          │
+|  CCSF Board Meetings Assistant                             |
 ├─────────────────────────────────────────────────────────────┤
 │ ┌─────────────────┐  ┌────────────────────────────────────┐│
 │ │   SIDEBAR       │  │         CHAT AREA                  ││
@@ -389,7 +389,7 @@ TOP_K_RETRIEVAL = 5
 │ │ CCSF Granicus   │  │  [Assistant]: Based on the board   ││
 │ │                 │  │  minutes from Jan 15, 2024...      ││
 │ │ Documents:      │  │                                    ││
-│ │ 150 meetings    │  │  📎 Sources:                       ││
+│ │ 150 meetings    │  │  Sources:                          ││
 │ │ 2019-2024       │  │  - Meeting 2024-01-15 (Minutes)    ││
 │ │                 │  │  - Meeting 2023-11-20 (Agenda)     ││
 │ │ ───────────────│  │                                    ││
@@ -416,7 +416,7 @@ TOP_K_RETRIEVAL = 5
 
 ---
 
-### Phase 8: Testing & Refinement 🔲
+### Phase 8: Testing and Refinement [PENDING]
 **Status**: Not Started
 
 **Test Cases**:
@@ -442,7 +442,7 @@ TEST_QUESTIONS = [
 
 ---
 
-## 🔧 Common Issues & Solutions
+## Common Issues and Solutions
 
 ### Granicus Scraping Issues
 **Problem**: Page content not loading
@@ -475,7 +475,7 @@ if len(extracted_text) < 100:
 
 ---
 
-## 📝 Session Notes
+## Session Notes
 
 ### Session Log
 Use this section to track progress across Claude Code sessions:
@@ -521,7 +521,7 @@ Date Range of Documents:
 
 ---
 
-## 🚀 Quick Start Commands
+## Quick Start Commands
 
 ```bash
 # Setup (run once)
@@ -544,7 +544,7 @@ streamlit run src/app/streamlit_app.py
 
 ---
 
-## 📚 Learning Resources
+## Learning Resources
 
 **RAG Concepts**:
 - Embeddings convert text to vectors that capture meaning
@@ -560,7 +560,7 @@ streamlit run src/app/streamlit_app.py
 
 ---
 
-## ⚠️ Important Notes
+## Important Notes
 
 1. **API Costs**: Claude API has usage costs. Monitor at console.anthropic.com
 2. **Rate Limits**: Add delays between API calls to avoid rate limiting
