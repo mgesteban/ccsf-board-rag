@@ -196,8 +196,8 @@ python -c "import chromadb; import llama_index; import anthropic; import streaml
 
 ---
 
-### Phase 3: Document Extraction [PENDING]
-**Status**: Not Started
+### Phase 3: Document Extraction [COMPLETE]
+**Status**: Complete
 
 **Goal**: Download PDFs and extract text from all agendas and minutes
 
@@ -236,10 +236,10 @@ python -c "import chromadb; import llama_index; import anthropic; import streaml
 ```
 
 **Verification**:
-- [ ] Processed JSON files exist in `data/processed/`
-- [ ] Text content is readable (not garbled)
-- [ ] Metadata is populated
-- [ ] Error log shows any failed extractions
+- [x] Processed JSON files exist in `data/processed/`
+- [x] Text content is readable (not garbled)
+- [x] Metadata is populated
+- [x] Error log shows any failed extractions
 
 ---
 
@@ -485,13 +485,17 @@ Use this section to track progress across Claude Code sessions:
 - Completed:
   - Phase 1: Project setup (Python 3.11 venv, all dependencies installed)
   - Phase 2: URL Discovery (196 meetings scraped from Granicus)
-  - Implemented src/scraper/url_discovery.py module
-  - Created scripts/01_discover_urls.py
+  - Phase 3: Document Extraction
+    - Implemented html_extractor.py for agenda HTML pages
+    - Implemented pdf_extractor.py for minutes PDFs
+    - Created 02_extract_documents.py script
+    - Minutes redirect through Google Docs viewer to actual PDF
   - Saved meeting URLs to data/document_urls.json
 - Issues:
   - Original venv was Python 3.6 (too old), recreated with Python 3.11
   - Granicus page has large DOM, used JavaScript evaluation for extraction
-- Next: Phase 3 - Document Extraction (download PDFs, extract HTML agendas)
+  - Minutes URLs redirect to Google Docs viewer, extracted actual PDF URLs
+- Next: Phase 4 - Text Chunking
 ---
 ```
 
@@ -571,4 +575,4 @@ streamlit run src/app/streamlit_app.py
 ---
 
 *Last Updated: 2025-12-30*
-*Project Status: Phase 2 Complete - Ready for Phase 3 (Document Extraction)*
+*Project Status: Phase 3 Complete - Ready for Phase 4 (Text Chunking)*
