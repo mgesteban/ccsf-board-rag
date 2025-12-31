@@ -26,9 +26,8 @@ This project scrapes board meeting documents from the [CCSF Granicus archive](ht
 |-----------|------------|
 | Web Scraping | Playwright, BeautifulSoup |
 | PDF Processing | PyMuPDF (fitz) |
-| RAG Framework | LlamaIndex |
 | Vector Database | ChromaDB |
-| Embeddings | HuggingFace BGE |
+| Embeddings | all-MiniLM-L6-v2 |
 | LLM | Claude API (Anthropic) |
 | Web Interface | Streamlit |
 
@@ -155,4 +154,6 @@ This project is for educational and research purposes. Board meeting documents a
 ## Acknowledgments
 
 - City College of San Francisco Board of Trustees for making meeting records publicly available
+- [Andrew Ng](https://www.andrewng.org/) and [DeepLearning.AI](https://www.deeplearning.ai/) for providing world-class AI education
+- [Elie Schoppik](https://www.linkedin.com/in/eschoppik/) of Anthropic for teaching the excellent [Claude Code: A Highly Agentic Coding Assistant](https://learn.deeplearning.ai/courses/claude-code-a-highly-agentic-coding-assistant) course that made this project possible
 - Built with Claude Code by Anthropic

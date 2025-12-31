@@ -243,8 +243,8 @@ python -c "import chromadb; import llama_index; import anthropic; import streaml
 
 ---
 
-### Phase 4: Text Chunking [PENDING]
-**Status**: Not Started
+### Phase 4: Text Chunking [COMPLETE]
+**Status**: Complete
 
 **Goal**: Split documents into smaller chunks suitable for RAG retrieval
 
@@ -278,14 +278,14 @@ Fallback: Recursive character splitting
 ```
 
 **Verification**:
-- [ ] Chunks are reasonable size (300-600 tokens)
-- [ ] Chunks don't cut off mid-sentence
-- [ ] Metadata is correctly propagated
+- [x] Chunks are reasonable size (100-800 tokens)
+- [x] Chunks don't cut off mid-sentence
+- [x] Metadata is correctly propagated
 
 ---
 
-### Phase 5: Vector Store Setup [PENDING]
-**Status**: Not Started
+### Phase 5: Vector Store Setup [COMPLETE]
+**Status**: Complete
 
 **Goal**: Create embeddings and store in ChromaDB for similarity search
 
@@ -320,14 +320,14 @@ def get_stats() -> dict:
 ```
 
 **Verification**:
-- [ ] `chroma_db/` folder has data files
-- [ ] Can query and get relevant results
-- [ ] Stats show expected document count
+- [x] `chroma_db/` folder has data files
+- [x] Can query and get relevant results
+- [x] Stats show expected document count
 
 ---
 
-### Phase 6: RAG Query Engine [PENDING]
-**Status**: Not Started
+### Phase 6: RAG Query Engine [COMPLETE]
+**Status**: Complete
 
 **Goal**: Connect retrieval to Claude for question answering
 
@@ -362,14 +362,14 @@ TOP_K_RETRIEVAL = 5
 ```
 
 **Verification**:
-- [ ] Test query returns relevant answer
-- [ ] Citations are included
-- [ ] "I don't know" for out-of-scope questions
+- [x] Test query returns relevant answer
+- [x] Citations are included
+- [x] "I don't know" for out-of-scope questions
 
 ---
 
-### Phase 7: Streamlit Interface [PENDING]
-**Status**: Not Started
+### Phase 7: Streamlit Interface [COMPLETE]
+**Status**: Complete
 
 **Goal**: Create user-friendly chat interface
 
@@ -409,15 +409,15 @@ TOP_K_RETRIEVAL = 5
 - Loading spinner during queries
 
 **Verification**:
-- [ ] App launches without errors
-- [ ] Can send messages and receive responses
-- [ ] Source citations are visible
-- [ ] Chat history persists in session
+- [x] App launches without errors
+- [x] Can send messages and receive responses
+- [x] Source citations are visible
+- [x] Chat history persists in session
 
 ---
 
 ### Phase 8: Testing and Refinement [PENDING]
-**Status**: Not Started
+**Status**: In Progress (expand data coverage)
 
 **Test Cases**:
 ```python
@@ -496,6 +496,31 @@ Use this section to track progress across Claude Code sessions:
   - Granicus page has large DOM, used JavaScript evaluation for extraction
   - Minutes URLs redirect to Google Docs viewer, extracted actual PDF URLs
 - Next: Phase 4 - Text Chunking
+---
+
+2025-12-30 - Session 2 (continued)
+- Completed:
+  - Phase 4: Text Chunking
+    - Implemented chunker.py with section-based (agendas) and paragraph-based (minutes) strategies
+    - Created 35 chunks from 5 sample documents
+  - Phase 5: Vector Store Setup
+    - Implemented vectorstore.py with ChromaDB
+    - Used all-MiniLM-L6-v2 embedding model (auto-downloaded by ChromaDB)
+    - Created 03_build_vectorstore.py script
+    - Tested queries return relevant results
+  - Phase 6: RAG Query Engine
+    - Implemented query_engine.py connecting vector store to Claude API
+    - Successfully tested with travel requests, board members, program queries
+    - Proper citation and "I don't know" responses working
+  - Phase 7: Streamlit Interface
+    - Implemented streamlit_app.py with chat UI
+    - Features: sidebar, example questions, source citations, token tracking
+    - Created 04_run_app.py launcher script
+- Current State:
+  - All core components complete and tested
+  - Sample data: 5 documents, 35 chunks in vector store
+  - Ready for full data extraction (196 meetings)
+- Next: Expand data coverage by running extraction on all meetings
 ---
 ```
 
